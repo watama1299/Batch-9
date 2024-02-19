@@ -1,0 +1,14 @@
+c:\Users\Batch 9\Desktop\Batch 9\ProjectA\bin\Debug\net8.0\ProjectA.exe
+c:\Users\Batch 9\Desktop\Batch 9\ProjectA\bin\Debug\net8.0\ProjectA.deps.json
+c:\Users\Batch 9\Desktop\Batch 9\ProjectA\bin\Debug\net8.0\ProjectA.runtimeconfig.json
+c:\Users\Batch 9\Desktop\Batch 9\ProjectA\bin\Debug\net8.0\ProjectA.dll
+c:\Users\Batch 9\Desktop\Batch 9\ProjectA\bin\Debug\net8.0\ProjectA.pdb
+c:\Users\Batch 9\Desktop\Batch 9\ProjectA\obj\Debug\net8.0\ProjectA.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 9\Desktop\Batch 9\ProjectA\obj\Debug\net8.0\ProjectA.AssemblyInfoInputs.cache
+c:\Users\Batch 9\Desktop\Batch 9\ProjectA\obj\Debug\net8.0\ProjectA.AssemblyInfo.cs
+c:\Users\Batch 9\Desktop\Batch 9\ProjectA\obj\Debug\net8.0\ProjectA.csproj.CoreCompileInputs.cache
+c:\Users\Batch 9\Desktop\Batch 9\ProjectA\obj\Debug\net8.0\ProjectA.dll
+c:\Users\Batch 9\Desktop\Batch 9\ProjectA\obj\Debug\net8.0\refint\ProjectA.dll
+c:\Users\Batch 9\Desktop\Batch 9\ProjectA\obj\Debug\net8.0\ProjectA.pdb
+c:\Users\Batch 9\Desktop\Batch 9\ProjectA\obj\Debug\net8.0\ProjectA.genruntimeconfig.cache
+c:\Users\Batch 9\Desktop\Batch 9\ProjectA\obj\Debug\net8.0\ref\ProjectA.dll

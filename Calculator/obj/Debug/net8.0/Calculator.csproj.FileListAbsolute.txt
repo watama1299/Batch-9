@@ -1,0 +1,14 @@
+c:\Users\Batch 9\Desktop\Batch 9\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 9\Desktop\Batch 9\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+c:\Users\Batch 9\Desktop\Batch 9\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+c:\Users\Batch 9\Desktop\Batch 9\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+c:\Users\Batch 9\Desktop\Batch 9\Calculator\bin\Debug\net8.0\Calculator.exe
+c:\Users\Batch 9\Desktop\Batch 9\Calculator\bin\Debug\net8.0\Calculator.deps.json
+c:\Users\Batch 9\Desktop\Batch 9\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+c:\Users\Batch 9\Desktop\Batch 9\Calculator\bin\Debug\net8.0\Calculator.dll
+c:\Users\Batch 9\Desktop\Batch 9\Calculator\bin\Debug\net8.0\Calculator.pdb
+c:\Users\Batch 9\Desktop\Batch 9\Calculator\obj\Debug\net8.0\Calculator.dll
+c:\Users\Batch 9\Desktop\Batch 9\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+c:\Users\Batch 9\Desktop\Batch 9\Calculator\obj\Debug\net8.0\Calculator.pdb
+c:\Users\Batch 9\Desktop\Batch 9\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+c:\Users\Batch 9\Desktop\Batch 9\Calculator\obj\Debug\net8.0\ref\Calculator.dll
