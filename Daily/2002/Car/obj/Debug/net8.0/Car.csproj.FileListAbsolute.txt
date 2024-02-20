@@ -1,0 +1,15 @@
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\obj\Debug\net8.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\obj\Debug\net8.0\Car.AssemblyInfoInputs.cache
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\obj\Debug\net8.0\Car.AssemblyInfo.cs
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\obj\Debug\net8.0\Car.csproj.CoreCompileInputs.cache
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\obj\Debug\net8.0\Car.sourcelink.json
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\bin\Debug\net8.0\Car.exe
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\bin\Debug\net8.0\Car.deps.json
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\bin\Debug\net8.0\Car.runtimeconfig.json
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\bin\Debug\net8.0\Car.dll
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\bin\Debug\net8.0\Car.pdb
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\obj\Debug\net8.0\Car.dll
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\obj\Debug\net8.0\refint\Car.dll
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\obj\Debug\net8.0\Car.pdb
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\obj\Debug\net8.0\Car.genruntimeconfig.cache
+c:\Users\Batch 9\Desktop\FMLX_SEBootcamp\Daily\2002\Car\obj\Debug\net8.0\ref\Car.dll
