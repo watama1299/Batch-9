@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Batch 9\\Desktop\\FMLX_SEBootcamp\\Animals\\Animals.csproj",
+      "projectUniqueName": "C:\\Users\\Batch 9\\Desktop\\FMLX_SEBootcamp\\Daily\\2002\\Animals\\Animals.csproj",
       "projectName": "Animals",
-      "projectPath": "C:\\Users\\Batch 9\\Desktop\\FMLX_SEBootcamp\\Animals\\Animals.csproj",
+      "projectPath": "C:\\Users\\Batch 9\\Desktop\\FMLX_SEBootcamp\\Daily\\2002\\Animals\\Animals.csproj",
       "packagesPath": "C:\\Users\\Batch 9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Batch 9\\Desktop\\FMLX_SEBootcamp\\Animals\\obj\\",
+      "outputPath": "C:\\Users\\Batch 9\\Desktop\\FMLX_SEBootcamp\\Daily\\2002\\Animals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 9\\AppData\\Roaming\\NuGet\\NuGet.Config"
