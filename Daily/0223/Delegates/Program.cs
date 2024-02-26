@@ -1,6 +1,4 @@
-﻿using System.Reflection;
-
-public delegate void DelegateNoParam();
+﻿public delegate void DelegateNoParam();
 public delegate void DelegateParam(string str);
 public delegate int DelegateReturn();
 
@@ -27,7 +25,7 @@ class Program {
         num += airCond.Number;
 
         // Calling delegates to run methods
-        on();
+        on.Invoke();
         off("off");
         // Will only print return value of the final method in the delegate
         Console.WriteLine(num());
