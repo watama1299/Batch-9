@@ -11,8 +11,9 @@
 
         // User input validation
         bool correct = int.TryParse((string) Console.ReadLine(), out num);
-        while (!correct) {
-            Console.Write("Number not detected. Please input a number > ");
+        while (!correct || num < 0) {
+            if (!correct) Console.WriteLine("Number not detected.");
+            Console.Write("Please input a number greater than or equal to 0 > ");
             correct = int.TryParse(Console.ReadLine(), out num);
         }
 
