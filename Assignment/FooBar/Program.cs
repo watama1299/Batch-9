@@ -33,6 +33,8 @@ class Program {
     }
 
     static void FooBarRunning(SortedDictionary<int, string> list) {
+        FooBar.FooBar fb = new(list);
+
         // Variable to hold user inputted number
         int num;
         Console.Write("Please input number > ");
@@ -45,10 +47,10 @@ class Program {
             correct = int.TryParse(Console.ReadLine(), out num);
         }
 
-        string[] temp = FooBar.FooBar.FromZeroResultArray(num, list);
+        Console.WriteLine(fb.GetListAsString());
+        string[] temp = fb.FromZeroResultArray(num);
         for (int i = 0; i < num + 1; i++) {
             Console.WriteLine($"{i}: {temp[i]}");
         }
-        Console.WriteLine(FooBar.FooBar.FromZeroResultString(num, list));
     }
 }
