@@ -69,21 +69,21 @@
         te1.Start();
 
         // Using Join makes sure that all threads have finished before ending the program
-        // th2.Join();
-        // t1.Join();
-        // t2.Join();
-        // tv1.Join();
-        // t3.Join();
-        // t4.Join();
-        // t5.Join();
-        // th1.Join();
-        // t6.Join();
-        // t7.Join();
-        // tv2.Join();
-        // t8.Join();
-        // t9.Join();
-        // t10.Join();
-        // te1.Join();
+        th2.Join();
+        t1.Join();
+        t2.Join();
+        tv1.Join();
+        t3.Join();
+        t4.Join();
+        t5.Join();
+        th1.Join();
+        t6.Join();
+        t7.Join();
+        tv2.Join();
+        t8.Join();
+        t9.Join();
+        t10.Join();
+        te1.Join();
 
         /**
 
