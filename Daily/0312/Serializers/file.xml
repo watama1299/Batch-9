@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHumanXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HumanXML>
+    <Age>24</Age>
+    <Name>Adit</Name>
+  </HumanXML>
+  <HumanXML>
+    <Age>25</Age>
+    <Name>Rafif</Name>
+  </HumanXML>
+  <HumanXML>
+    <Age>25</Age>
+    <Name>Yudha</Name>
+  </HumanXML>
+</ArrayOfHumanXML>
