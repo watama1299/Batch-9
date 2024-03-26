@@ -1,0 +1,20 @@
+@model Category
+<h1>Update a Category</h1>
+
+<form method="post">
+    <div class="form-group">
+        @* 
+            Have to put hidden CategoryId so that it knows that it is referring to the same entry
+            If it's not put, then it will take the same CategoryName and Description but put a new entry
+        *@
+        <input asp-for="CategoryId" type="hidden" />
+
+        <label asp-for="CategoryName">Category name</label>
+        <input asp-for="CategoryName" type="text" class="form-control" placeholder="Enter category name">
+
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" type="text" class="form-control" placeholder="Enter description">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+    <a asp-action="Index" class="btn btn-info">Cancel</a>
+</form>
